@@ -38,18 +38,18 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.txtSifra = new System.Windows.Forms.TextBox();
+            this.txtReg = new System.Windows.Forms.TextBox();
+            this.txtGodproiz = new System.Windows.Forms.TextBox();
+            this.txtKm = new System.Windows.Forms.TextBox();
+            this.txtCena = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.comboModel = new System.Windows.Forms.ComboBox();
+            this.comboBoja = new System.Windows.Forms.ComboBox();
+            this.comboGorivo = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.listView1 = new System.Windows.Forms.ListView();
@@ -155,40 +155,40 @@
             this.label6.TabIndex = 9;
             this.label6.Text = "Cena";
             // 
-            // textBox1
+            // txtSifra
             // 
-            this.textBox1.Location = new System.Drawing.Point(138, 86);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 10;
+            this.txtSifra.Location = new System.Drawing.Point(138, 86);
+            this.txtSifra.Name = "txtSifra";
+            this.txtSifra.Size = new System.Drawing.Size(100, 20);
+            this.txtSifra.TabIndex = 10;
             // 
-            // textBox2
+            // txtReg
             // 
-            this.textBox2.Location = new System.Drawing.Point(138, 122);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(144, 20);
-            this.textBox2.TabIndex = 11;
+            this.txtReg.Location = new System.Drawing.Point(138, 122);
+            this.txtReg.Name = "txtReg";
+            this.txtReg.Size = new System.Drawing.Size(144, 20);
+            this.txtReg.TabIndex = 11;
             // 
-            // textBox3
+            // txtGodproiz
             // 
-            this.textBox3.Location = new System.Drawing.Point(138, 159);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(144, 20);
-            this.textBox3.TabIndex = 12;
+            this.txtGodproiz.Location = new System.Drawing.Point(138, 159);
+            this.txtGodproiz.Name = "txtGodproiz";
+            this.txtGodproiz.Size = new System.Drawing.Size(144, 20);
+            this.txtGodproiz.TabIndex = 12;
             // 
-            // textBox4
+            // txtKm
             // 
-            this.textBox4.Location = new System.Drawing.Point(138, 197);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(144, 20);
-            this.textBox4.TabIndex = 13;
+            this.txtKm.Location = new System.Drawing.Point(138, 197);
+            this.txtKm.Name = "txtKm";
+            this.txtKm.Size = new System.Drawing.Size(144, 20);
+            this.txtKm.TabIndex = 13;
             // 
-            // textBox5
+            // txtCena
             // 
-            this.textBox5.Location = new System.Drawing.Point(138, 236);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(144, 20);
-            this.textBox5.TabIndex = 14;
+            this.txtCena.Location = new System.Drawing.Point(138, 236);
+            this.txtCena.Name = "txtCena";
+            this.txtCena.Size = new System.Drawing.Size(144, 20);
+            this.txtCena.TabIndex = 14;
             // 
             // label7
             // 
@@ -226,29 +226,29 @@
             this.label10.TabIndex = 18;
             this.label10.Text = "Gorivo";
             // 
-            // comboBox1
+            // comboModel
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(486, 90);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(147, 21);
-            this.comboBox1.TabIndex = 19;
+            this.comboModel.FormattingEnabled = true;
+            this.comboModel.Location = new System.Drawing.Point(486, 90);
+            this.comboModel.Name = "comboModel";
+            this.comboModel.Size = new System.Drawing.Size(147, 21);
+            this.comboModel.TabIndex = 19;
             // 
-            // comboBox2
+            // comboBoja
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(486, 128);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(147, 21);
-            this.comboBox2.TabIndex = 20;
+            this.comboBoja.FormattingEnabled = true;
+            this.comboBoja.Location = new System.Drawing.Point(486, 128);
+            this.comboBoja.Name = "comboBoja";
+            this.comboBoja.Size = new System.Drawing.Size(147, 21);
+            this.comboBoja.TabIndex = 20;
             // 
-            // comboBox3
+            // comboGorivo
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(486, 166);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(147, 21);
-            this.comboBox3.TabIndex = 21;
+            this.comboGorivo.FormattingEnabled = true;
+            this.comboGorivo.Location = new System.Drawing.Point(486, 166);
+            this.comboGorivo.Name = "comboGorivo";
+            this.comboGorivo.Size = new System.Drawing.Size(147, 21);
+            this.comboGorivo.TabIndex = 21;
             // 
             // button1
             // 
@@ -279,10 +279,11 @@
             this.columnHeader6,
             this.columnHeader7,
             this.columnHeader8});
+            this.listView1.FullRowSelect = true;
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(12, 341);
+            this.listView1.Location = new System.Drawing.Point(12, 299);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(773, 97);
+            this.listView1.Size = new System.Drawing.Size(773, 139);
             this.listView1.TabIndex = 24;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
@@ -343,18 +344,18 @@
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.comboGorivo);
+            this.Controls.Add(this.comboBoja);
+            this.Controls.Add(this.comboModel);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtCena);
+            this.Controls.Add(this.txtKm);
+            this.Controls.Add(this.txtGodproiz);
+            this.Controls.Add(this.txtReg);
+            this.Controls.Add(this.txtSifra);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -367,6 +368,7 @@
             this.Controls.Add(this.btnIzmeni);
             this.Name = "Form1";
             this.Text = "Evidencia vozidiel";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -384,18 +386,18 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox txtSifra;
+        private System.Windows.Forms.TextBox txtReg;
+        private System.Windows.Forms.TextBox txtGodproiz;
+        private System.Windows.Forms.TextBox txtKm;
+        private System.Windows.Forms.TextBox txtCena;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.ComboBox comboModel;
+        private System.Windows.Forms.ComboBox comboBoja;
+        private System.Windows.Forms.ComboBox comboGorivo;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.ListView listView1;

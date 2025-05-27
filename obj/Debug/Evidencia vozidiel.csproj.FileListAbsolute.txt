@@ -9,3 +9,36 @@ C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.cspr
 C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.exe
 C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.pdb
 C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia_vozidiel.Analiza.resources
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Google.Protobuf.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\MySql.Data.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Buffers.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.IO.Pipelines.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Memory.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\ZstdSharp.dll
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Google.Protobuf.pdb
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Google.Protobuf.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\MySql.Data.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Buffers.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.IO.Pipelines.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Memory.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidenci.8A3055FA.Up2Date
