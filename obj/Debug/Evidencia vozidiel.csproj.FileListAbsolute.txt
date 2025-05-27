@@ -1,0 +1,11 @@
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Evidencia vozidiel.exe.config
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Evidencia vozidiel.exe
+C:\Users\fejdi\source\repos\Evidencia vozidiel\bin\Debug\Evidencia vozidiel.pdb
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.csproj.AssemblyReference.cache
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia_vozidiel.Form1.resources
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia_vozidiel.Properties.Resources.resources
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.csproj.GenerateResource.cache
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.csproj.CoreCompileInputs.cache
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.exe
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia vozidiel.pdb
+C:\Users\fejdi\source\repos\Evidencia vozidiel\obj\Debug\Evidencia_vozidiel.Analiza.resources
